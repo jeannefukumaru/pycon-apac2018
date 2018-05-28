@@ -1,0 +1,5 @@
+
+# initialise cookiecutter project template
+cookiecutter gh:jeannefukumaru/cookiecutter-ml
+
+# 
