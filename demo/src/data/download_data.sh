@@ -1,3 +1,3 @@
 #!usr/bin/bash
-curl http://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.data -o ../../data/raw/housing.txt
-curl http://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names -o ../../data/raw/housing-metadata.txt
+curl https://vincentarelbundock.github.io/Rdatasets/csv/MASS/Boston.csv -o ../../data/raw/housing.txt
+curl https://vincentarelbundock.github.io/Rdatasets/doc/MASS/Boston.html -o ../../data/raw/housing-metadata.txt
